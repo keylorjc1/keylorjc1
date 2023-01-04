@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Backend<br>I'm looking to collaborate on a project where I can show my skils<br>
+I'm currently learning Backend<br>I'm looking to collaborate on a project where I can show my skills<br>
 
 
 ## 🌐 Socials:
